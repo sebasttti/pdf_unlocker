@@ -34,7 +34,7 @@ Clona el repositorio:
 
 ```bash
 git clone <URL_DEL_REPOSITORIO>
-cd pdf-unlocker
+cd pdf_unlocker
 ```
 
 Instala las dependencias:
@@ -58,9 +58,9 @@ La aplicación permite:
 Por ejemplo:
 
 ```text
-Declaracion_Renta_2025.pdf
+archivo_ejemplo.pdf
         ↓
-Declaracion_Renta_2025_sin_clave.pdf
+archivo_ejemplo_sin_clave.pdf
 ```
 
 El archivo original no se modifica.
